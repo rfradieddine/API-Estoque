@@ -1,0 +1,12 @@
+Objetivos:
+
+Criar uma API REstFull para controle de produtofa-spin
+
+Modelo:
+  Produto: id, nome, quantidade, valor, observaçao
+
+Repositorio de produto:
+  obterTodos, obterPorId, adicionar, atualizar, deletar.
+
+Serviços de produto:
+  obterTodos, obterPorId, adicionar, atualizar, deletar.
